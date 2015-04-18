@@ -1,4 +1,10 @@
-## Laravel PHP Framework
+## Swagger + Laravel 4 PHP Framework
+
+### Step by step ###
+
+    $ composer install
+    $ php artisan asset:publish latrell/swagger
+    $ php artisan config:publish latrell/swagger
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
