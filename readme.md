@@ -3,6 +3,7 @@
 ### Step by step ###
 
     $ composer install
+    $ php artisan swagger:install
     $ php artisan asset:publish latrell/swagger
     $ php artisan config:publish latrell/swagger
 
